@@ -1,4 +1,3 @@
 Test DDDD
 
-Scanner
-String abc
+Scanner sc = new Scanner();
